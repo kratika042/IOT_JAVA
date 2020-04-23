@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Kratika Maheshwari/Downloads/apache-log4j-2.13.0-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Kratika Maheshwari/Downloads/log4j-1.2.15.jar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/ini4j-0.5.4/ini4j-0.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/ini4j-0.5.4/ini4j-0.5.4-jdk14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kratika Maheshwari/Downloads/jedis-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kratika Maheshwari/Downloads/jar_files/py4j-0.10.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
